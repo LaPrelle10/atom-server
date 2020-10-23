@@ -1,0 +1,21 @@
+# heroku postgresql
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+"ec2-52-72-34-184.compute-1.amazonaws.com"
+
+Database:
+dcpdat0srqclgp
+
+User:
+svjolpizxltjmx
+
+Port:
+5432
+
+Password
+64a68386593e8580d0d37d74e5524058cd36f3361bfdbecae37af50276304c50
+
+URI:
+postgres://svjolpizxltjmx:64a68386593e8580d0d37d74e5524058cd36f3361bfdbecae37af50276304c50@ec2-52-72-34-184.compute-1.amazonaws.com:5432/dcpdat0srqclgp
+
+Heroku CLI: 
+heroku pg:psql postgresql-asymmetrical-66043 --app atom-node
