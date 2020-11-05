@@ -1,0 +1,44 @@
+# Cloudkarafka App : 
+# Config. Vars : 
+
+Setting up for this server option if you dont have one already is going to require that you going to either - 
+https://www.heroku.com/ or https://www.cloudkarafka.com/ and signing up an account if you do this you'll receive a server list, apikey, username, password
+and a region you'll have to pick one as well either by going to https://awsconsole.com/ or https://googlecloudconsole.com/ and creating an account for better access 
+and more options. Personally I recommend this being a strong choice that you consider taking. 
+
+
+Hostname :
+tricycle.srvs.cloudkafka.com
+
+Region :
+amazon-web-services::us-east-1
+
+(Created at	2020-10-23 20:00)
+
+Username :
+mhdq1t6s
+
+Password:
+
+
+# Server INFO. & details for Cloudkarafka App 
+
+# Connection Details : 
+For use you'll need to create an account for the access of cloudkarafka app. Connection is established by the user name and password your given through
+cloudkarafka app.
+
+# Using SASL/SCRAM : 
+For usage you'll need to create an account through Cloudkarafka Brokers. You'll get another username and password for connection. 
+
+Username :	
+mhdq1t6s
+
+Password :
+
+Topic prefix :	mhdq1t6s-
+
+Servers	tricycle-01.srvs.cloudkafka.com:9094
+
+tricycle-02.srvs.cloudkafka.com:9094
+
+tricycle-03.srvs.cloudkafka.com:9094
