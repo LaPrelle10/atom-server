@@ -1,0 +1,32 @@
+# Heroku Postgresql : 
+# Dashboard link :
+
+"ec2-52-72-34-184.compute-1.amazonaws.com"
+
+# Database :
+(dcpdat0srqclgp)
+
+# User :
+(svjolpizxltjmx)
+
+# Port :
+(5432)
+
+Password : 
+(64a68386593e8580d0d37d74e5524058cd36f3361bfdbecae37af50276304c50)
+
+URI :
+(postgres://svjolpizxltjmx:64a68386593e8580d0d37d74e5524058cd36f3361bfdbecae37af50276304c50@ec2-52-72-34-184.compute-1.amazonaws.com:5432/dcpdat0srqclgp)
+
+# Heroku CLI : 
+Use heroku cli for this optional use. 
+
+$ heroku pg:psql 
+
+$ postgresql-asymmetrical-66043 
+
+$ --app atom-node
+
+
+
+heroku config:add \ HEROKU_OAUTH_ID=ed04cf52-69a6-4a1b-a059-104ef72f7490 \ HEROKU_OAUTH_SECRET=b9507af0-4f79-4b4c-9942-8a4bdec39d9b
