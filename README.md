@@ -1,6 +1,8 @@
 # Atom-Server :
-
-A personal crypt-o atom-node-flow pipline atom-node main-net blockchain built using https://heroku.com/ 
+Define: 
+Atom : Atom is a chain of Cryptocurrency runs on the Cosmso-Chain.
+Server : A srver is a local platform you connect to giving you access to your own belogings unless your on a server with others  
+A personal crypt-o atom-node-flow pipline atom-node-main-net atom-server built using https://heroku.com/atom-server/
 
 # Heroku Git URL : 
 
