@@ -1,3 +1,5 @@
+mhdq1t6s-sasl-scram.txt
+
 CLOUDKARAFKA_BROKERS=tricycle-01.srvs.cloudkafka.com:9094,tricycle-02.srvs.cloudkafka.com:9094,tricycle-03.srvs.cloudkafka.com:9094
 CLOUDKARAFKA_USERNAME=mhdq1t6s
 CLOUDKARAFKA_PASSWORD=Rh-6KwXZDTu1AIeAsnp6iMctdb11NPjy
