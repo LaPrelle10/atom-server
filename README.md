@@ -8,7 +8,7 @@ A personal crypt-o atom-node-flow pipline atom-node-main-net atom-server built u
 
 https://git.heroku.com/atom-node.git
 
-Stack-18
+Stack-20
 
 # Respository : 
 
